@@ -1,0 +1,14 @@
+Git / SCM - purpose
+repository
+	origin
+commit
+push
+pull
+(merge) conflict
+branch
+	master
+	
+	
+(A) -> (B) -> (C)---> (E) --->
+				|			  
+				|----> (D)----/
